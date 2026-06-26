@@ -85,18 +85,21 @@ Computer Science & Engineering graduate passionate about building modern web app
 
 ### 🎟 TicketBari
 Online ticket booking platform with role-based dashboard and Stripe payments.
+🔗 Live: https://ticket-booking-platform-92d4d.web.app/
 
 **Tech:** React, Node.js, Express.js, MongoDB, Firebase, Stripe
 
 ### 🎨 ColorCraft
 Handmade jewelry marketplace built with Next.js and Firebase.
+🔗 Live: https://color-craft-bd.vercel.app/
 
 **Tech:** Next.js, Tailwind CSS, Firebase
 
-### 🍔 FoodDash BD
-Modern food ordering platform with search, filtering, and responsive UI.
+### 💼 Freelance Marketplace
+A feature-rich freelancing platform designed for seamless project management, bidding, and client-freelancer collaboration.
+🔗 Live: https://freelance-marketplace-s.netlify.app/
 
-**Tech:** Next.js, MongoDB, Express.js
+Tech: React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 
 ---
 
