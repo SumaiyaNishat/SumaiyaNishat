@@ -55,23 +55,6 @@ Computer Science & Engineering graduate passionate about building modern web app
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SumaiyaNishat&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumaiyaNishat&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SumaiyaNishat&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 💻 Featured Projects
 
